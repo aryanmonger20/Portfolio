@@ -32,7 +32,7 @@ class Card extends Component {
 
             <h1><span>My Profiles </span></h1>
 
-            <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
+            <div id="portfolio-wrapper" className="bgrid-quarterscard s-bgrid-thirds cf">
                 {projects}
             </div>
           </div>

@@ -1,0 +1,148 @@
+{
+  "main": {
+    "name":"Aryan Gupta",
+    "occupation":"Full Stack Developer & Coder",
+    "description":" Hey !! There, I am Aryan .An ECE undergrad from IIIT Surat",
+    "image":"profilepic.jpg",
+    "bio":"Hey !! There, I am Aryan .An ECE undergrad from IIIT Surat. I love Coding 🧑🏻‍💻 ,Gaming 🎮 and keen of learning new things.Currently I am Learning MERN Stack and doing Competetive Coding.I am super active on Social media ,love sharing memes"
+    ,
+    "contactmessage":"Wanna get in touch to hire or collaborate Contact me here.",
+    "email": "aryangupta007yo@gmail.com",
+    "phone": "7985176511",
+    "address":{
+      "street":"",
+      "city":"Allahabad",
+      "state":",INDIA",
+      "zip": ""
+    },
+    "website": "",
+    "resumedownload":"https://drive.google.com/file/d/1mHrcX5xjKe1XOo7WmGzWi8x8RVR9L1L3/view?usp=sharing",
+    "social":[
+     
+      {
+        "name":"github",
+        "url":"http://github.com/aryanmonger20",
+        "className":"fa fa-github"
+      }, {
+        "name":"facebook",
+        "url":"https://www.facebook.com/profile.php?id=100006797169220",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/AryanMonger",
+        "className":"fa fa-twitter"
+      },
+      
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/aryan-gupta-0b0286197/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/aryanmonger20",
+        "className":"fa fa-instagram"
+      }
+      
+      
+    ]
+  },
+  "resume":{
+    "skillmessage":"Always Learning New Technologies!! Here's some of my skills",
+    
+    
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"50%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"Express",
+        "level":"50%"
+      },
+      {
+        "name":"Node",
+        "level":"60%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Whatsapp Clone",
+        "category":"A MERN Clone Of Whatsapp",
+        "image":"whatsapp.jpeg",
+        "url":"https://github.com/aryanmonger20/LetsChat"
+      },
+      {
+        "title":"Smiley Animation",
+        "category":"A CSS based Smiley which follows you !!!",
+        "image":"smiley.png",
+        "url":"https://jovial-gates-688bdb.netlify.app"
+      },
+      {
+        "title":"WebQuiz App",
+        "category":"A react based Quiz App",
+        "image":"webquiz.jpg",
+        "url":"https://aryanmonger20.github.io/WebQuiz/"
+      },
+      
+      {
+        "title":"Birthday Animation for wishing friends",
+        "category":"A Happy Birthday animation design in CSS3, HTML5,Jquery.",
+        "image":"bday.jpg",
+        "url":"https://aryanmonger20.github.io/HAPPY-BDAY-/"
+      },
+      {
+        "title":" WeatherApp",
+        "category":"React based PWA Weather search app.",
+        "image":"screen2.png",
+        "url":"https://github.com/aryanmonger20/WeatherApp"
+      }
+    ]
+  },
+  "cards":{
+    "projects": [
+      {
+        "title":"GitHub",
+        "category":"",
+        "image":"i9.jpg",
+        "url":"https://github.com/aryanmonger20"
+      },
+      {
+        "title":"HackerEarth",
+        "category":"",
+        "image":"i5.jpeg",
+        "url":"https://www.hackerearth.com/@aryangupta007yo"
+      },
+      {
+        "title":"Codechef",
+        "category":"",
+        "image":"i10.jpg",
+        "url":"https://www.codechef.com/users/aryanmonger_20"
+      },
+      
+      {
+        "title":"Hackerrank",
+        "category":"",
+        "image":"i11.jpg",
+        "url":"https://www.hackerrank.com/aryangupta007yo"
+      }
+      
+    ]
+  }
+}
