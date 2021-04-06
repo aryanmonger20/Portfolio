@@ -54,7 +54,7 @@
     
     "skills":[
       {
-        "name":"Git",
+        "name":"React-Native",
         "level":"60%"
       },
       
@@ -67,7 +67,7 @@
         "level":"50%"
       },
       {
-        "name":"HTML5",
+        "name":"HTML5,CSS",
         "level":"80%"
       },
       {
@@ -82,18 +82,21 @@
   },
   "portfolio":{
     "projects": [
+      
+      
+      {
+        "title":"FixIt ",
+        "category":"A React Native App to connect small scale workers to the world",
+        "image":"fixit2.jpg",
+        "url":"https://github.com/aryanmonger20/FixIt"
+      },
       {
         "title":"Whatsapp Clone",
         "category":"A MERN Clone Of Whatsapp",
         "image":"whatsapp.jpeg",
         "url":"https://github.com/aryanmonger20/LetsChat"
       },
-      {
-        "title":"Portfolio site ",
-        "category":"My first project...It's a eact based Portfolio website !!!",
-        "image":"portf.png",
-        "url":"https://aryanmonger20.github.io/AryanPortfolio/"
-      },
+      
       {
         "title":"Smiley Animation",
         "category":"A CSS based Smiley which follows you !!!",
