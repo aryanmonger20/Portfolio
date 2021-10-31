@@ -100,7 +100,7 @@
         "title":"CodeBash",
         "category":"CodeBash is a facebook messenger bot in the form of a facebook page which helps us to get notified about all the Hackathons,Coding Contest etc ",
         "image":"cbash.jpg",
-        "url":"https://spooky-cemetery-32975.herokuapp.com/blogs"
+        "url":"https://codebash-web.herokuapp.com/"
       },
       {
         "title":"Anime BlogSite",
