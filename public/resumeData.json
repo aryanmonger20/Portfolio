@@ -60,11 +60,11 @@
       
       {
         "name":"ReactJs",
-        "level":"50%"
+        "level":"80%"
       },
       {
         "name":"MongoDB",
-        "level":"50%"
+        "level":"60%"
       },
       {
         "name":"HTML5,CSS",
@@ -72,7 +72,7 @@
       },
       {
         "name":"Express",
-        "level":"50%"
+        "level":"60%"
       },
       {
         "name":"Node",
@@ -91,10 +91,35 @@
         "url":"https://github.com/aryanmonger20/FixIt"
       },
       {
+        "title":"We Travel",
+        "category":"A Travel Social Website for travel enthusiasts",
+        "image":"wetrr.jpg",
+        "url":"https://fierce-wildwood-24965.herokuapp.com/"
+      },
+      {
+        "title":"CodeBash",
+        "category":"CodeBash is a facebook messenger bot in the form of a facebook page which helps us to get notified about all the Hackathons,Coding Contest etc ",
+        "image":"cbash.jpg",
+        "url":"https://spooky-cemetery-32975.herokuapp.com/blogs"
+      },
+      {
+        "title":"Anime BlogSite",
+        "category":"A Blogsite for Anime Lovers",
+        "image":"blogss.jpeg",
+        "url":"https://spooky-cemetery-32975.herokuapp.com/blogs"
+      },
+      
+      {
         "title":"Whatsapp Clone",
         "category":"A MERN Clone Of Whatsapp",
         "image":"whatsapp.jpeg",
         "url":"https://github.com/aryanmonger20/LetsChat"
+      },
+      {
+        "title":"Birthday Animation for wishing friends",
+        "category":"A Happy Birthday animation design in CSS3, HTML5,Jquery.",
+        "image":"bday.jpg",
+        "url":"https://aryanmonger20.github.io/HAPPY-BDAY-/"
       },
       
       {
@@ -103,19 +128,9 @@
         "image":"smiley.png",
         "url":"https://jovial-gates-688bdb.netlify.app"
       },
-      {
-        "title":"WebQuiz App",
-        "category":"A react based Quiz App",
-        "image":"webquiz.jpg",
-        "url":"https://aryanmonger20.github.io/WebQuiz/"
-      },
+
       
-      {
-        "title":"Birthday Animation for wishing friends",
-        "category":"A Happy Birthday animation design in CSS3, HTML5,Jquery.",
-        "image":"bday.jpg",
-        "url":"https://aryanmonger20.github.io/HAPPY-BDAY-/"
-      },
+   
       {
         "title":" WeatherApp",
         "category":"React based PWA Weather search app.",
