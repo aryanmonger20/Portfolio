@@ -16,7 +16,7 @@
       "zip": ""
     },
     "website": "",
-    "resumedownload":"https://drive.google.com/file/d/1mHrcX5xjKe1XOo7WmGzWi8x8RVR9L1L3/view?usp=sharing",
+    "resumedownload":"https://drive.google.com/file/d/1WTIFpQXAoT4sX-ChTqlUZIpgIXUUa8bG/view?usp=sharing",
     "social":[
      
       {
@@ -148,10 +148,10 @@
         "url":"https://github.com/aryanmonger20"
       },
       {
-        "title":"HackerEarth",
+        "title":"Leetcode",
         "category":"",
-        "image":"i5.jpeg",
-        "url":"https://www.hackerearth.com/@aryangupta007yo"
+        "image":"leetcode.jpeg",
+        "url":"https://leetcode.com/aryangupta007yo/"
       },
       {
         "title":"Codechef",
@@ -161,10 +161,10 @@
       },
       
       {
-        "title":"Hackerrank",
+        "title":"GeeksforGeeks",
         "category":"",
-        "image":"i11.jpg",
-        "url":"https://www.hackerrank.com/aryangupta007yo"
+        "image":"gff.jpeg",
+        "url":"https://auth.geeksforgeeks.org/user/aryn20/practice/"
       }
       
     ]
