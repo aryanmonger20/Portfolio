@@ -31,8 +31,8 @@ class Contact extends Component {
         <div className="row">
           <div className="eight columns">
             <form
-              action="https://formsubmit.co/aryangupta20ag@gmail.com"
-              method="post"
+              action="https://formsubmit.co/aryangupta007yo@gmail.com"
+              method="POST"
               id="contactForm"
               name="contactForm"
             >
@@ -99,6 +99,7 @@ class Contact extends Component {
             </form>
 
             <div id="message-warning"> Error boy</div>
+
             <div id="message-success">
               <i className="fa fa-check"></i>Your message was sent, thank you!
               <br />
