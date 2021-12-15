@@ -31,7 +31,7 @@ class Contact extends Component {
         <div className="row">
           <div className="eight columns">
             <form
-              action="https://formsubmit.co/aryangupta007yo@gmail.com"
+              action="https://formsubmit.co/24dc96a52c34f4c7a94464b3457c2c0d"
               method="POST"
               id="contactForm"
               name="contactForm"
@@ -82,8 +82,8 @@ class Contact extends Component {
                     Message <span className="required">*</span>
                   </label>
                   <textarea
-                    cols="50"
-                    rows="15"
+                   style={{position:"relative"}}
+                
                     id="contactMessage"
                     name="contactMessage"
                   ></textarea>
